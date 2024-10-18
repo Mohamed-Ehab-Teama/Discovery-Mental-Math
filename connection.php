@@ -1,6 +1,6 @@
 <?php
 
-$path = __DIR__ . '\\';
+$path = 'localhost\PHP\Discovery-Mental-Math\\';
 
 session_start();
 
