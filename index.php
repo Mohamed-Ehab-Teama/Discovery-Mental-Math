@@ -1,7 +1,4 @@
-<?php
-// echo dirname(__FILE__,0);
-// die;
-?>
+
 
 <?php $title = 'Home'; ?>
 <?php require_once __DIR__ . '\header.php'  ?>
