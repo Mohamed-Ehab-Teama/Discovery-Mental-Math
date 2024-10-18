@@ -1,5 +1,7 @@
 <?php
 
+$path = __DIR__ . '\\';
+
 session_start();
 
 $db_type = 'mysql';
