@@ -32,7 +32,7 @@
                         <a class="nav-link btn btn-outline-danger me-4" href="#"> Competition </a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link btn btn-outline-danger me-4" href="#"> Contact US </a>
+                        <a class="nav-link btn btn-outline-danger me-4" href="./contact_us.php"> Contact US </a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link btn btn-outline-danger me-4" href="#">

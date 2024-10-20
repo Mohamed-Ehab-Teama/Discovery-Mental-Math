@@ -1,5 +1,4 @@
 
-
 <!doctype html>
 <html lang="en">
 
@@ -12,7 +11,7 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
     <link rel="stylesheet" href="./css/style.css">
 
-    <title> Level 3 </title>
+    <title> Contact US </title>
 </head>
 
 <body>
@@ -20,20 +19,20 @@
     <!-- Nav Bar -->
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
         <div class="container-fluid">
-            <a class="navbar-brand" href="../index.php">Navbar</a>
+            <a class="navbar-brand" href="./index.php">Navbar</a>
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav">
                     <li class="nav-item">
-                        <a class="nav-link btn btn-outline-danger me-4" aria-current="page" href="../index.php"> Home </a>
+                        <a class="nav-link btn btn-outline-danger me-4" aria-current="page" href="./index.php"> Home </a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link btn btn-outline-danger me-4" href="../train.php"> Traning </a>
+                        <a class="nav-link btn btn-outline-danger me-4" href="./train.php"> Traning </a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link btn btn-outline-danger me-4" href="#"> Competition </a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link btn btn-outline-danger me-4" href="../contact_us.php"> Contact US </a>
+                        <a class="nav-link btn btn-outline-danger me-4" href="./contact_us.php"> Contact US </a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link btn btn-outline-danger me-4" href="#">
@@ -48,28 +47,64 @@
 
 
 <!-- Content -->
-<h1 class="text-center mt-5">
-    Let's Start Training 😁😁:
-</h1>
-
-
-<div class="container text-center mt-5">
-    <a href="#">
-        <button style="width: 40%; font-size: 2rem;" class="btn btn-warning"> LEVEL A </button>
-    </a>
-</div>
-<div class="container text-center mt-5">
-    <a href="#">
-        <button style="width: 40%; font-size: 2rem;" class="btn btn-warning"> LEVEL B </button>
-    </a>
-</div>
-<div class="container text-center mt-5">
-    <a href="#">
-        <button style="width: 40%; font-size: 2rem;" class="btn btn-warning"> LEVEL C </button>
-    </a>
-</div>
-
-
+<section class="py-5">
+	<div class="container">
+		<div class="row justify-content-center text-center mb-3">
+			<div class="col-lg-8 col-xxl-7">
+				<h2 class="display-5 fw-bold mb-3">Contact Us</h2>
+				<p class="lead">
+                    Welcome to DISCOVERY ACADEMY
+                </p>
+			</div>
+		</div>
+		<div class="row justify-content-between">
+			<div class="col-lg-6">
+				<h5 class="fw-semibold mb-3">Send us a message</h5>
+				<form>
+					<div class="row">
+						<div class="col-md-6">
+							<div class="mb-3">
+								<input class="form-control bg-light" placeholder="First name" type="text">
+							</div>
+						</div>
+						<div class="col-md-6">
+							<div class="mb-3">
+								<input class="form-control bg-light" placeholder="Last name" type="text">
+							</div>
+						</div>
+						<div class="col-12">
+							<div class="mb-3">
+								<input class="form-control bg-light" placeholder="Email address" type="text">
+							</div>
+						</div>
+					</div>
+					<div class="mb-3">
+						<textarea class="form-control bg-light" placeholder="Your message" rows="4"></textarea>
+					</div>
+					<div class="col-md-4 ms-auto">
+						<div class="d-grid">
+							<button class="btn btn-primary" type="submit">Send message</button>
+						</div>
+					</div>
+				</form>
+			</div>
+			<div class="col-lg-5 mt-5 mt-lg-0">
+				<div class="mb-4">
+					<h5>Address</h5>
+					<p>123 Mountain View, California, United States.</p>
+				</div>
+				<div class="mb-4">
+					<h5>Phone</h5>
+					<p>+1 123-456-7890</p>
+				</div>
+				<div class="mb-4">
+					<h5>Email</h5>
+					<p>hello@yourdomain.com</p>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
 
 
 
@@ -101,6 +136,7 @@
             <a href="https://example.com" class="text-white">DISCOVERY AST</a>
         </div>
     </footer>
+
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
 </body>
