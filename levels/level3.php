@@ -30,13 +30,13 @@
                         <a class="nav-link btn btn-outline-danger me-4" href="../train.php"> Traning </a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link btn btn-outline-danger me-4" href="#"> Competition </a>
+                        <a class="nav-link btn btn-outline-danger me-4" href="../Competition.php"> Competition </a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link btn btn-outline-danger me-4" href="../contact_us.php"> Contact US </a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link btn btn-outline-danger me-4" href="#">
+                        <a class="nav-link btn btn-outline-danger me-4" href="../login.php">
                             Login
                         </a>
                     </li>

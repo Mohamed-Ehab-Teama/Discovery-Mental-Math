@@ -1,4 +1,3 @@
-
 <!doctype html>
 <html lang="en">
 
@@ -11,7 +10,7 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
     <link rel="stylesheet" href="./css/style.css">
 
-    <title> Contact US </title>
+    <title> Home </title>
 </head>
 
 <body>
@@ -46,71 +45,52 @@
 
 
 
-<!-- Content -->
-<section class="py-5">
-	<div class="container">
-		<div class="row justify-content-center text-center mb-3">
-			<div class="col-lg-8 col-xxl-7">
-				<h2 class="display-5 fw-bold mb-3">Contact Us</h2>
-				<p class="lead">
-                    Welcome to DISCOVERY ACADEMY
-                </p>
-			</div>
-		</div>
-		<div class="row justify-content-between">
-			<div class="col-lg-6">
-				<h5 class="fw-semibold mb-3">Send us a message</h5>
-				<form>
-					<div class="row">
-						<div class="col-md-6">
-							<div class="mb-3">
-								<input class="form-control bg-light" placeholder="First name" type="text">
-							</div>
-						</div>
-						<div class="col-md-6">
-							<div class="mb-3">
-								<input class="form-control bg-light" placeholder="Last name" type="text">
-							</div>
-						</div>
-						<div class="col-12">
-							<div class="mb-3">
-								<input class="form-control bg-light" placeholder="Email address" type="text">
-							</div>
-						</div>
-					</div>
-					<div class="mb-3">
-						<textarea class="form-control bg-light" placeholder="Your message" rows="4"></textarea>
-					</div>
-					<div class="col-md-4 ms-auto">
-						<div class="d-grid">
-							<button class="btn btn-primary" type="submit">Send message</button>
-						</div>
-					</div>
-				</form>
-			</div>
-			<div class="col-lg-5 mt-5 mt-lg-0">
-				<div class="mb-4">
-					<h5>Address</h5>
-					<p>123 Mountain View, California, United States.</p>
-				</div>
-				<div class="mb-4">
-					<h5>Phone</h5>
-					<p>+1 123-456-7890</p>
-				</div>
-				<div class="mb-4">
-					<h5>Email</h5>
-					<p>hello@yourdomain.com</p>
-				</div>
-			</div>
-		</div>
-	</div>
-</section>
+    <!-- Content -->
+    <section class="container mt-5">
+
+        <h1 class="text-center">
+            Discovery Mental-Math Competition
+        </h1>
+
+        <article class="mt-3 p-1">
+            Some Content
+        </article>
+
+        <div class="image-holder">
+            <img src="./images/back-img.avif" alt="Photo">
+        </div>
+
+        <article class="mt-3 p-1">
+            In the age of technology and rapid progress, developing children's mental arithmetic skills is important.
+            <br>
+            At Al-Hadary Academy, we care about providing a stimulating and enjoyable educational environment to develop children's mental arithmetic skills in innovative and effective ways.
+            <br>
+            <!-- Al-Hadary Academy is the ideal place to discover children's potential and develop their arithmetic skills.
+            <br>
+            We rely on a specialized educational methodology that combines fun and challenge to enhance critical thinking, innovation and focus in children.
+            <br>
+            What distinguishes us is our qualified and dedicated team of creative and experienced teachers in teaching mental arithmetic. Our team members have exceptional teaching skills and a superior ability to communicate with children, which contributes to providing a unique educational experience characterized by personal support and individual attention.
+            <br>
+            Our programs include a variety of innovative activities and exercises that help children enhance their arithmetic skills, develop numerical intelligence, and improve memory and concentration. Whether children are beginners in learning mental arithmetic or have an advanced level, we provide programs specifically designed to meet the needs of each individual.
+            <br>
+            At Al-Hadary Academy, we place great importance on fun and interaction in the learning process. We provide a stimulating environment filled with engaging educational activities and smart games that help enhance your child’s thinking and mental readiness.
+            <br>
+            If you are looking for a place that provides comprehensive and fun education to develop your children’s mental arithmetic skills, look no further. Join us at Al-Hadary Academy today and see how your children can be champions in the world of numbers!
+            <br>
+            Contact us now for more information and to register for training programs for your children. We are excited to help you on your journey to develop your children’s mental arithmetic skills and reach their full potential.
+            <br> -->
+        </article>
+
+        <div class="image-holder">
+            <img src="./images/back-img.avif" alt="Photo">
+        </div>
+
+    </section>
 
 
 
-
-<!-- Footer -->
-<footer class="bg-dark text-white mt-5 pt-4 pb-4">
+    <!-- Footer -->
+    <footer class="bg-dark text-white mt-5 pt-4 pb-4">
         <div class="container text-center text-md-left">
             <div class="row">
                 <div class="col-md-4">
@@ -136,6 +116,9 @@
             <a href="https://example.com" class="text-white">DISCOVERY AST</a>
         </div>
     </footer>
+
+
+
 
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
