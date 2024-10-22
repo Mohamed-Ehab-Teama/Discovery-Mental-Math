@@ -58,20 +58,20 @@
 
     <div class="container text-center mt-5">
         <a href="./levels/level1.php" >
-            <button type="button" class="btn btn-warning mt-1 text-start" style="width: 40%; font-size: 1.5rem;">
-                &nbsp; Level 1 &nbsp; <sub>(Easy)</sub>
+            <button type="button" class="btn btn-warning mt-1 text-center" style="width: 40%; font-size: 1.5rem;">
+                Less than 7 years
             </button>
         </a>
         <br>
         <a href="./levels/level2.php" >
-            <button type="button" class="btn btn-warning mt-3 text-start" style="width: 40%; font-size: 1.5rem;">
-                &nbsp; Level 2 &nbsp; <sub>(Intermidate)</sub>
+            <button type="button" class="btn btn-warning mt-3 text-center" style="width: 40%; font-size: 1.5rem;">
+                From 7 to 10 years
             </button>
         </a>
         <br>
-        <a href="./levels/level2.php" >
-            <button type="button" class="btn btn-warning mt-3 text-start" style="width: 40%; font-size: 1.5rem;">
-                &nbsp; Level 3 &nbsp; <sub>(Hard)</sub>
+        <a href="./levels/level3.php" >
+            <button type="button" class="btn btn-warning mt-3 text-center" style="width: 40%; font-size: 1.5rem;">
+                More that 10 years
             </button>
         </a>
     </div>
