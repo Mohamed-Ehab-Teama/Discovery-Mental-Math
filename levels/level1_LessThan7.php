@@ -20,7 +20,7 @@
     <!-- Nav Bar -->
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
         <div class="container-fluid">
-            <a class="navbar-brand" href="../index.php">Navbar</a>
+            <a class="navbar-brand" >Navbar</a>
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav">
                     <li class="nav-item">
@@ -54,20 +54,21 @@
 
 
 <div class="container text-center mt-5">
-    <a href="#">
+    <a href="./LevelA/indexA.php">
         <button style="width: 40%; font-size: 2rem;" class="btn btn-warning"> LEVEL A </button>
     </a>
 </div>
 <div class="container text-center mt-5">
-    <a href="#">
+    <a href="./LevelB/indexB.php">
         <button style="width: 40%; font-size: 2rem;" class="btn btn-warning"> LEVEL B </button>
     </a>
 </div>
 <div class="container text-center mt-5">
-    <a href="#">
+    <a href="./LevelC/indexC.php">
         <button style="width: 40%; font-size: 2rem;" class="btn btn-warning"> LEVEL C </button>
     </a>
 </div>
+
 
 
 

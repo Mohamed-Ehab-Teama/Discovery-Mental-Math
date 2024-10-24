@@ -21,7 +21,7 @@
     <!-- Nav Bar -->
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
         <div class="container-fluid">
-            <a class="navbar-brand" href="./index.php">Navbar</a>
+            <a class="navbar-brand" >Navbar</a>
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav">
                     <li class="nav-item">
@@ -55,7 +55,7 @@
 </h1>
 
 <div class="container text-center mt-5">
-    <a href="#">
+    <a href="./Competition.php">
         <button style="width: 70%; font-size: 2.5rem;" class="btn btn-warning"> Go To the Competition </button>
     </a>
 </div>

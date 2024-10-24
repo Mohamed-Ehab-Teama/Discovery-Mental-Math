@@ -12,7 +12,7 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
     <link rel="stylesheet" href="./css/style.css">
 
-    <title> More than 10 </title>
+    <title> Level D </title>
 </head>
 
 <body>
@@ -20,25 +20,14 @@
     <!-- Nav Bar -->
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
         <div class="container-fluid">
-            <a class="navbar-brand" href="../index.php">Navbar</a>
+            <a class="navbar-brand ">Navbar</a>
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav">
                     <li class="nav-item">
-                        <a class="nav-link btn btn-outline-danger me-4" aria-current="page" href="../index.php"> Home </a>
+                        <a class="nav-link btn btn-outline-danger me-4" aria-current="page" href="../../index.php"> Home </a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link btn btn-outline-danger me-4" href="../train.php"> Traning </a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link btn btn-outline-danger me-4" href="../Competition.php"> Competition </a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link btn btn-outline-danger me-4" href="../contact_us.php"> Contact US </a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link btn btn-outline-danger me-4" href="../login.php">
-                            Login
-                        </a>
+                        <a class="nav-link btn btn-outline-danger me-4" href="../../train.php"> Traning </a>
                     </li>
                 </ul>
             </div>
@@ -49,26 +38,25 @@
 
 <!-- Content -->
 <h1 class="text-center mt-5">
-    Let's Start Training 😁😁:
+    Let's Start Our Tests 😁😁:
 </h1>
 
 
 <div class="container text-center mt-5">
     <a href="#">
-        <button style="width: 40%; font-size: 2rem;" class="btn btn-warning"> LEVEL A </button>
+        <button style="width: 40%; font-size: 2rem;" class="btn btn-warning"> Test 10 </button>
     </a>
 </div>
 <div class="container text-center mt-5">
     <a href="#">
-        <button style="width: 40%; font-size: 2rem;" class="btn btn-warning"> LEVEL B </button>
+        <button style="width: 40%; font-size: 2rem;" class="btn btn-warning"> Test 11 </button>
     </a>
 </div>
 <div class="container text-center mt-5">
     <a href="#">
-        <button style="width: 40%; font-size: 2rem;" class="btn btn-warning"> LEVEL C </button>
+        <button style="width: 40%; font-size: 2rem;" class="btn btn-warning"> Test 12 </button>
     </a>
 </div>
-
 
 
 
@@ -101,6 +89,7 @@
             <a href="https://example.com" class="text-white">DISCOVERY AST</a>
         </div>
     </footer>
+
 
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM" crossorigin="anonymous"></script>
 </body>
