@@ -1,6 +1,3 @@
-
-
-
 <!doctype html>
 <html lang="en">
 
@@ -12,6 +9,7 @@
     <!-- Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
     <link rel="stylesheet" href="./css/style.css">
+    <link rel="icon" href="./images/Discoery Logo.jpg">
 
     <title> Training </title>
 </head>
@@ -21,7 +19,9 @@
     <!-- Nav Bar -->
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
         <div class="container-fluid">
-            <a class="navbar-brand" >Navbar</a>
+            <a class="navbar-brand">
+                <img class="rounded" src="./images/Discoery Logo.jpg" alt="logo for discovery" width="50px">
+            </a>
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav">
                     <li class="nav-item">
@@ -51,25 +51,25 @@
 
 
 
-<!-- Content -->
+    <!-- Content -->
     <h2 class="text-center mt-5">
         Chose Level:
     </h2>
 
     <div class="container text-center mt-5">
-        <a href="./levels/level1_LessThan7.php" >
+        <a href="./levels/level1_LessThan7.php">
             <button type="button" class="btn btn-warning mt-1 text-center" style="width: 40%; font-size: 1.5rem;">
                 Less than 7 years
             </button>
         </a>
         <br>
-        <a href="./levels/level2_Between7and10.php" >
+        <a href="./levels/level2_Between7and10.php">
             <button type="button" class="btn btn-warning mt-3 text-center" style="width: 40%; font-size: 1.5rem;">
                 From 7 to 10 years
             </button>
         </a>
         <br>
-        <a href="./levels/level3_MoreThan10.php" >
+        <a href="./levels/level3_MoreThan10.php">
             <button type="button" class="btn btn-warning mt-3 text-center" style="width: 40%; font-size: 1.5rem;">
                 More that 10 years
             </button>
@@ -79,8 +79,8 @@
 
 
 
-<!-- Footer -->
-<footer class="bg-dark text-white mt-5 pt-4 pb-4">
+    <!-- Footer -->
+    <footer class="bg-dark text-white mt-5 pt-4 pb-4">
         <div class="container text-center text-md-left">
             <div class="row">
                 <div class="col-md-4">
@@ -115,4 +115,3 @@
 </body>
 
 </html>
-   

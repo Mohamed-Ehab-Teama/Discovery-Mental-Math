@@ -9,6 +9,7 @@
     <!-- Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
     <link rel="stylesheet" href="./css/style.css">
+    <link rel="icon" href="./images/Discoery Logo.jpg">
 
     <title> Register </title>
 </head>
@@ -18,7 +19,9 @@
     <!-- Nav Bar -->
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
         <div class="container-fluid">
-            <a class="navbar-brand" >Navbar</a>
+            <a class="navbar-brand">
+                <img class="rounded" src="./images/Discoery Logo.jpg" alt="logo for discovery" width="50px">
+            </a>
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav">
                     <li class="nav-item">
@@ -63,7 +66,7 @@
                                             Create new account
                                         </h4>
 
-                                        
+
                                         <div data-mdb-input-init class="form-outline mb-4">
                                             <label class="form-label" for="form2Example17">User Name</label>
                                             <input type="text" id="form2Example17" class="form-control form-control-lg" />
@@ -78,7 +81,7 @@
                                             <label class="form-label" for="form2Example27">Password</label>
                                             <input type="password" id="form2Example27" class="form-control form-control-lg" />
                                         </div>
-                                        
+
                                         <div data-mdb-input-init class="form-outline mb-4">
                                             <label class="form-label" for="form2Example27">Confirm Password</label>
                                             <input type="password" id="form2Example27" class="form-control form-control-lg" />
