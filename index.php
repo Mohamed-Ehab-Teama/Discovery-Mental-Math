@@ -6,10 +6,21 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
+
     <!-- Bootstrap CSS -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
+
+    <!-- Font Awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
     <link rel="stylesheet" href="./css/style.css">
     <link rel="icon" href="./images/Discoery Logo.jpg">
+
+    <style>
+        .my-link{
+            text-decoration: none;
+        }
+    </style>
 
     <title> Home </title>
 </head>
@@ -93,45 +104,58 @@
 
 
     <!-- Footer -->
-    <footer class="bg-dark text-white mt-5 pt-4 pb-4">
-        <div class="container text-center text-md-left">
-            <div class="row">
-                <div class="col-md-4">
-                    <h5 class="text-uppercase"> DISCOVERY </h5>
-                </div>
-                <div class="col-md-4">
-                    <h5 class="text-capitalize fst-italic"> Links </h5>
-                    <ul class="list-unstyled">
-                        <li>
-                            <a href="#!" class="text-white">
-                                <img src="./icons/linked in.svg" alt="icons" width="30px">
-                            </a>
-                        </li>
-                        <li>
-                            <a href="#!" class="text-white">
-                                <img src="./icons/linked in.svg" alt="icons" width="30px">
-                            </a>
-                        </li>
-                        <li>
-                            <a href="#!" class="text-white">
-                                <img src="./icons/linked in.svg" alt="icons" width="30px">
-                            </a>
-                        </li>
-                    </ul>
-                </div>
-                <div class="col-md-4">
-                    <h5 class="text-uppercase">Contact</h5>
-                    <p>1234 Street Name<br>City, State, 56789</p>
-                    <p>Email: info@example.com</p>
-                </div>
-            </div>
-        </div>
-        <div class="text-center py-3">
-            © 2024 Copyright:
-            <a href="https://example.com" class="text-white">DISCOVERY AST</a>
-        </div>
-    </footer>
+    <footer class="bg-dark text-center text-white mt-5">
+        <!-- Grid container -->
+        <div class="container p-4 pb-0">
+            <!-- Section: Social media -->
+            <section class="mb-4">
+                <!-- Facebook -->
+                <a class="my-link btn-floating ms-4" href="https://www.facebook.com/DiscoveryAcademySTEM" target="_blank">
+                    <img src="./icons/facebook.svg" alt="icons" width="30px">
+                </a>
 
+                <!-- Twitter or X -->
+                <a class="my-link btn-floating ms-4" href="https://x.com/i/flow/login?redirect_after_login=%2FDiscoveryASTEgy" target="_blank">
+                    <img src="./icons/x.svg" alt="icons" width="30px">
+                </a>
+
+                <!-- Discovery Website -->
+                <a class="my-link btn btn-light btn-floating ms-4" href="https://discoveryast.com/" target="_blank">
+                    <img src="./images/Discoery Logo.jpg" alt="icons" width="30px">
+                </a>
+
+                <!-- Instagram -->
+                <a class="my-link btn-floating ms-4" href="https://www.instagram.com/discoveryastegy/" target="_blank">
+                    <img src="./icons/insta.svg" alt="icons" width="30px">
+                </a>
+
+                <!-- Linkedin -->
+                <a class="my-link btn-floating ms-4" href="https://www.linkedin.com/company/discovery-ast" target="_blank">
+                    <img src="./icons/linked in.svg" alt="icons" width="30px">
+                </a>
+
+                <!-- YouTube -->
+                <a class="my-link btn-floating ms-4" href="https://www.youtube.com/@discoveryacademy1397" target="_blank">
+                    <img src="./icons/you tube.svg" alt="icons" width="30px">
+                </a>
+
+                <!-- WhatsApp -->
+                <a class="my-link btn-floating ms-4" href="https://chat.whatsapp.com/HRKrAowVyrC5hX2bmQKQGS" target="_blank">
+                    <img src="./icons/whats.svg" alt="icons" width="30px">
+                </a>
+                
+            </section>
+            <!-- Section: Social media -->
+        </div>
+        <!-- Grid container -->
+
+        <!-- Copyright -->
+        <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2);">
+            © 2024 Copyright:
+            <a class="text-white" href="https://discoveryast.com/" target="_blank" > DISCOVERY AST </a>
+        </div>
+        <!-- Copyright -->
+    </footer>
 
 
 
