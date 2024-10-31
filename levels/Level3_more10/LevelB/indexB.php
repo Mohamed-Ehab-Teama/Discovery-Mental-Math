@@ -11,7 +11,7 @@
     <link rel="stylesheet" href="./css/style.css">
     <link rel="icon" href="./../../images/Discoery Logo.jpg">
 
-    <title> Level G </title>
+    <title> Level B </title>
 </head>
 
 <body>
@@ -45,17 +45,17 @@
 
     <div class="container text-center mt-5">
         <a href="#">
-            <button style="width: 40%; font-size: 2rem;" class="btn btn-warning"> Test 19 </button>
+            <button style="width: 40%; font-size: 2rem;" class="btn btn-warning"> Test 1 </button>
         </a>
     </div>
     <div class="container text-center mt-5">
         <a href="#">
-            <button style="width: 40%; font-size: 2rem;" class="btn btn-warning"> Test 20 </button>
+            <button style="width: 40%; font-size: 2rem;" class="btn btn-warning"> Test 2 </button>
         </a>
     </div>
     <div class="container text-center mt-5">
         <a href="#">
-            <button style="width: 40%; font-size: 2rem;" class="btn btn-warning"> Test 21 </button>
+            <button style="width: 40%; font-size: 2rem;" class="btn btn-warning"> Test 3 </button>
         </a>
     </div>
 

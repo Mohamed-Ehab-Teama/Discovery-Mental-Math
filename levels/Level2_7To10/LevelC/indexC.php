@@ -45,17 +45,17 @@
 
     <div class="container text-center mt-5">
         <a href="#">
-            <button style="width: 40%; font-size: 2rem;" class="btn btn-warning"> Test 07 </button>
+            <button style="width: 40%; font-size: 2rem;" class="btn btn-warning"> Test 1 </button>
         </a>
     </div>
     <div class="container text-center mt-5">
         <a href="#">
-            <button style="width: 40%; font-size: 2rem;" class="btn btn-warning"> Test 08 </button>
+            <button style="width: 40%; font-size: 2rem;" class="btn btn-warning"> Test 2 </button>
         </a>
     </div>
     <div class="container text-center mt-5">
         <a href="#">
-            <button style="width: 40%; font-size: 2rem;" class="btn btn-warning"> Test 09 </button>
+            <button style="width: 40%; font-size: 2rem;" class="btn btn-warning"> Test 3 </button>
         </a>
     </div>
 
