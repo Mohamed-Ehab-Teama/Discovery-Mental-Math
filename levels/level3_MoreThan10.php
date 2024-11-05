@@ -14,22 +14,22 @@
 
 
     <div class="container text-center mt-5">
-        <a href="./Level3_more10/LevelA/indexA.php">
+        <a href="./Level3A.php">
             <button style="width: 40%; font-size: 2rem;" class="btn btn-warning"> LEVEL A </button>
         </a>
     </div>
     <div class="container text-center mt-5">
-        <a href="./Level3_more10/LevelB/indexB.php">
+        <a href="./Level3B.php">
             <button style="width: 40%; font-size: 2rem;" class="btn btn-warning"> LEVEL B </button>
         </a>
     </div>
     <div class="container text-center mt-5">
-        <a href="./Level3_more10/LevelC/indexC.php">
+        <a href="./Level3C.php">
             <button style="width: 40%; font-size: 2rem;" class="btn btn-warning"> LEVEL C </button>
         </a>
     </div>
     <div class="container text-center mt-5">
-        <a href="./Level3_more10/LevelD/indexD.php">
+        <a href="./Level3D.php">
             <button style="width: 40%; font-size: 2rem;" class="btn btn-warning"> LEVEL D </button>
         </a>
     </div>

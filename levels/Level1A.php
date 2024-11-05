@@ -1,6 +1,6 @@
 
 <?php 
-    $title = 'Less than 7 ';
+    $title = ' Level 1 - A  ';
 
     require_once './levels_header.php' ;
 ?>
@@ -14,18 +14,18 @@
 
 
     <div class="container text-center mt-5">
-        <a href="./Level1A.php">
-            <button style="width: 40%; font-size: 2rem;" class="btn btn-warning"> LEVEL A </button>
+        <a href="">
+            <button style="width: 40%; font-size: 2rem;" class="btn btn-warning"> Test 1 </button>
         </a>
     </div>
     <div class="container text-center mt-5">
-        <a href="./Level1B.php">
-            <button style="width: 40%; font-size: 2rem;" class="btn btn-warning"> LEVEL B </button>
+        <a href="">
+            <button style="width: 40%; font-size: 2rem;" class="btn btn-warning"> Test 2 </button>
         </a>
     </div>
     <div class="container text-center mt-5">
-        <a href="./Level1C.php">
-            <button style="width: 40%; font-size: 2rem;" class="btn btn-warning"> LEVEL C </button>
+        <a href="">
+            <button style="width: 40%; font-size: 2rem;" class="btn btn-warning"> Test 3 </button>
         </a>
     </div>
 
